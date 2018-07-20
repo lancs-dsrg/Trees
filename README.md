@@ -12,6 +12,6 @@
 
   - I use the **[rpart](https://www.statmethods.net/advstats/cart.html)** library for regression trees.
     It can be installed with
-    '''R
+    '''r
     install.packages("rpart")
     '''
