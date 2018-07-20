@@ -1,5 +1,4 @@
 # Repository for regression and classification trees
-======
 
 This repository contains:
 - Slides that give an introduction to regression and classification trees **trees.pdf**.
