@@ -1,6 +1,6 @@
 # Repository for regression and classification trees
 
-This repository contains:
+## This repository contains:
 - Slides that give an introduction to regression and classification [trees.pdf](https://github.com/lancs-dsrg/Trees/blob/master/trees.pdf).
 
 - A directory with the materials for a practical session.
