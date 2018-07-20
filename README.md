@@ -11,11 +11,18 @@
     - Plot the regression tree fitted.
 
   - I use the **[rpart](https://www.statmethods.net/advstats/cart.html)** library for regression trees.
-    It can be installed with
+    It can be installed with,
     ```R
     install.packages("rpart")
     ```
-    and then loaded with
+    and then loaded with,
     ```R
     library("rpart")
     ```
+
+## Practical task:
+  - Build your own regression tree.
+  - Plot the associated tree diagram for your built tree.
+  - Prune the tree.
+  - Plot the pruned tree.
+  - Carry out some sort of 
