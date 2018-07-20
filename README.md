@@ -15,3 +15,7 @@
     ```R
     install.packages("rpart")
     ```
+    and then loaded with
+    ```R
+    library("rpart")
+    ```
