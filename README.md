@@ -6,21 +6,12 @@
 - A directory with the materials for a practical session.
   - The data used in the practical session was obtained from datailluminations available [here](https://github.com/datailluminations). It contains data on the number of Toyota Corolla cars. 
   - In the R script I:
-    - Give a very brief exploratory analysis of the data
-    - Build a regression tree with two of the possible 9 predictors
-    - Plot the regression tree fitted
+    - Give a very brief exploratory analysis of the data.
+    - Build a regression tree with two of the possible 9 predictors.
+    - Plot the regression tree fitted.
 
-  - I use the **[rpart](https://www.statmethods.net/advstats/cart.html)** library for regression trees
-
-- We will use the **rpart** library in **R** to build a regression tree.
-- I have only just installed this library and have prepared a quick demonstration of building a tree.
-  - The tree needs to be pruned to avoid overfitting
-  - I have been following the instructions on [this](https://www.statmethods.net/advstats/cart.html) page
-  - I have got up to step2.
-
-
-# demo.R
-- We use the **ToyotaCorolla.csv** dataset to build a regression tree to predict the price of the car
-- I plot the **KM** (kilometers car has travelled) against **Age**, against each other and colour the points according to the price of the car. This indicates what one may expect, **Age** and **KM** are correlated. Also, the most expensive cars tend to be new, and haven't travelled very far.
-
-
+  - I use the **[rpart](https://www.statmethods.net/advstats/cart.html)** library for regression trees.
+    It can be installed with
+    '''R
+    install.packages("rpart")
+    '''
