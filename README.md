@@ -10,7 +10,7 @@ This repository contains:
     - Build a regression tree with two of the possible 9 predictors
     - Plot the regression tree fitted
 
-  I use the **[rpart](https://www.statmethods.net/advstats/cart.html)** library for regression trees
+  - I use the **[rpart](https://www.statmethods.net/advstats/cart.html)** library for regression trees
 
 - We will use the **rpart** library in **R** to build a regression tree.
 - I have only just installed this library and have prepared a quick demonstration of building a tree.
