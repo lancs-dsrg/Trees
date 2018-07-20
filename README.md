@@ -25,4 +25,3 @@
   - Plot the associated tree diagram for your built tree.
   - Prune the tree.
   - Plot the pruned tree.
-  - Carry out some sort of 
